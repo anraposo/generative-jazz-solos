@@ -1,2 +1,2 @@
-# generative-jazz-solos
-Probabilistic Phrase-Oriented Generative Rhythmic Patterns for Jazz Solos
+# rhythmic-patterns-jazz-solos
+Phrase-Oriented Probabilistic Analysis of Rhythmic Patterns for Symbolic Generative AI Jazz Solos

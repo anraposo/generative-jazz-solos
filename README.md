@@ -15,3 +15,6 @@ Instructions:
 3. Run command: java -jar generative-jazz-solos-1.0.0.jar
 
 ![gui_demo](https://github.com/user-attachments/assets/d992cb79-832e-46c2-ac43-ad85d59f29ab)
+
+Sample:
+![allthethingsyouare_BEBOP](https://github.com/user-attachments/assets/06514956-625d-4712-ae1f-6f57de92af39)

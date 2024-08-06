@@ -1,4 +1,4 @@
-# rhythmic-patterns-jazz-solos
+# Rhythmic Patterns for Jazz Solos
 Phrase-Oriented Probabilistic Analysis of Rhythmic Patterns by Style for Symbolic Generative AI Jazz Solos
 
 Contents:
